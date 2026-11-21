@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.borderr{
+  border-right: 1px solid rgb(126, 124, 124);
+}
